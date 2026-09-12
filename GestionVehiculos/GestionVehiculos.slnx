@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestionVehiculos/GestionVehiculos.csproj" />
+  <Project Path="Objetos/Objetos.csproj" />
+</Solution>
